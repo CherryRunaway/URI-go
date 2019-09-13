@@ -9,7 +9,7 @@ func main() {
 	)
 	
 	fmt.Scan(&a)
-  fmt.Scan(&b)
+  	fmt.Scan(&b)
 	soma := a+b
 	fmt.Printf("SOMA = %d\n", soma)
 }
