@@ -10,7 +10,7 @@ func main() {
 	)
 	
 	fmt.Scanln(&a)
-    fmt.Scanln(&b)
+    	fmt.Scanln(&b)
 	total = a+b
 	fmt.Printf("X = %d\n", total)
 }
